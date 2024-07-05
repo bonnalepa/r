@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://dewa378.percussionfarms.org/sitemap.xml
